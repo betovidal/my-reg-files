@@ -1,7 +1,8 @@
 MyRegFiles
 =======
 
-Adds GVim and CMD to the shift + right click on background menu.
+* Add GVim and CMD to the shift + right click on background menu.
+* Remove Window's transparency and watermark.
 
 
 Installation
